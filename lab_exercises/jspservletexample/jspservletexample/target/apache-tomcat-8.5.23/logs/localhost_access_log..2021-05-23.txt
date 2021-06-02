@@ -1,0 +1,6 @@
+127.0.0.1 - - [23/May/2021:15:47:23 +0300] "GET /cargocpc/index.html HTTP/1.1" 200 124
+0:0:0:0:0:0:0:1 - - [23/May/2021:15:48:45 +0300] "GET / HTTP/1.1" 404 -
+0:0:0:0:0:0:0:1 - - [23/May/2021:15:49:24 +0300] "GET /greet/greetme?name=123 HTTP/1.1" 200 123
+0:0:0:0:0:0:0:1 - - [23/May/2021:15:49:38 +0300] "GET /greet/greetme?name=VOlkan%20Tuyji HTTP/1.1" 200 132
+0:0:0:0:0:0:0:1 - - [23/May/2021:15:52:17 +0300] "GET /greet/greetme?name=Ahmet HTTP/1.1" 200 125
+0:0:0:0:0:0:0:1 - - [23/May/2021:15:54:19 +0300] "GET /greet/greetme?name=Mehmet HTTP/1.1" 200 126
